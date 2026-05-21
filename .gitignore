@@ -1,0 +1,11 @@
+*.obj
+*.exp
+*.lib
+*.pyd
+*.dll
+*.exe
+pycache/
+dist/
+tmp/
+.vs/
+
